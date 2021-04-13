@@ -35,7 +35,9 @@ This app uses Filter as Main Controller and follow MVC2 model.
 *
 *
 
-## Contact me
-* email: *chloenguyen1206@gmail.com*
+## Contact me via
+1. [GitHub](www.github.com/chloe-nguyen)
+2. [Linkedin](www.linkedin.com/in/chloe-nguyen-1206)
+3. Email: *chloenguyen1206@gmail.com*
 
-# YellowMoonShop
+### © 2020 by chloe-nguyen
