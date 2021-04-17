@@ -16,25 +16,37 @@ This app uses Filter as Main Controller and follow MVC2 model.
 * Login is not required
 
 ### Function 3: Update Cake
-*
-*
-*
+* The list of first 20 cakes will be displayed (order by date)
+* The cake category and the cake status will show 
+in combo box form
+* Paging is required to use
+* The system must record the last update date, last update user
+* Only Admin role has permission to do this function
 
 ### Function 4: Create Cake
-*
-*
-*
+* The default status of new Cake is active
+* Only Admin role has permission to do this function
 
 ### Function 5: Go shopping
-*
-*
-*
+* User can add the selected Cake to shopping cart. The default quantity of chosen cake is 1
+* Each user can buy any available Cake in the list
+* User can view the selected Cake in the cart
+* User can remove the Cake from the cart. The confirm message will show before delete action
+* User can update amount of each Cake in cart
+* The default payment is cash payment upon delivery
+* All users can use this function except Admin role
+* Login is not required
 
 ### Function 6: Track orders
-*
-*
-*
+* User can track their orders by orderID
+* User inputs the orderId and click Search to track their order
+* Login is required
 
+<!-- ### Function 7: Authenticate to access system using third party
+* (in progress)
+
+### Function 8:  Pay using online payment
+* (in progress) -->
 ## Contact me via
 1. [GitHub](www.github.com/chloe-nguyen)
 2. [Linkedin](www.linkedin.com/in/chloe-nguyen-1206)
